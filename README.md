@@ -1,6 +1,6 @@
 - [GitHub](https://github.com/notsopreety)
 <div>
-<img src="https://komarev.com/ghpvc/?username=notsopreety&label=Profile%20views&color=0e75b6&style=flat" alt="milan-says" /
+<img src="https://komarev.com/ghpvc/?username=notsopreety&label=Profile%20views&color=0e75b6&style=flat" alt="notsopreety" /
  <a href="https://github.com/notsopreety"><img src="https://img.shields.io/github/followers/notsopreety?label=followers&style=social"/></a>
 </div>
 
