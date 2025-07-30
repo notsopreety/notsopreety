@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+</p>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=notsopreety&label=Profile%20Views&color=ff2e63&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/notsopreety">
@@ -6,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB!;I'M+SAMIR+THAKURI;BACKEND+DEVELOPER+%F0%9F%94%A7;CODE%2C+DEBUG%2C+DEPLOY!">
+  <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&size=25&pause=1000&color=FF5722&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B;I%27m+Samir+Badaila.;Backend+Wizard+%F0%9F%94%A7+Crafting+APIs.;Web+Scraping+%7C+Automation+%7C+Bots.;Scaling+Code+with+Node.js+%2B+MongoDB.;From+Idea+to+Deployment+%E2%9C%85">
 </h1>
 
 <div align="center">
@@ -58,6 +62,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=notsopreety&theme=midnight-purple&hide_border=true&background=1a1b27" alt="Streak" />
 </div>
 
+------
+
+### 🌟 Contribution
+<div align="center">
+  <a href="https://github.com/notsopreety">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=notsopreety&theme=react-dark&area=true&radius=20&days=30&custom_title=My%20This%20Month%20Contribution%20Graph" alt="c-graph" />
+  </a>
+</div>
+
 ---
 
 ### 📲 Hit Me Up
@@ -78,3 +91,8 @@
 <div align="center" style="color: #08d9d6; font-size: 1.2em; text-shadow: 1px 1px 3px #333;">
   "Turning coffee into code, one line at a time. ☕🚀"
 </div>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
