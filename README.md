@@ -66,9 +66,7 @@
 
 ### 🌟 Contribution
 <div align="center">
-  <a href="https://github.com/notsopreety">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=notsopreety&theme=react-dark&area=true&radius=20&days=30&custom_title=My%20This%20Month%20Contribution%20Graph" alt="c-graph" />
-  </a>
 </div>
 
 ---
