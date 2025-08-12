@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&size=25&pause=1000&color=FF5722&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B;I%27m+Samir+Badaila.;Backend+Wizard+%F0%9F%94%A7+Crafting+APIs.;Web+Scraping+%7C+Automation+%7C+Bots.;Scaling+Code+with+Node.js+%2B+MongoDB.;From+Idea+to+Deployment+%E2%9C%85">
+</h1>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=notsopreety&label=Profile%20Views&color=ff2e63&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/notsopreety">
@@ -9,13 +13,8 @@
   </a>
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&size=25&pause=1000&color=FF5722&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B;I%27m+Samir+Badaila.;Backend+Wizard+%F0%9F%94%A7+Crafting+APIs.;Web+Scraping+%7C+Automation+%7C+Bots.;Scaling+Code+with+Node.js+%2B+MongoDB.;From+Idea+to+Deployment+%E2%9C%85">
-</h1>
-
 <div align="center">
-  <img src="https://gist.githubusercontent.com/mahmudinm/47588cab5af928d2c8a2976d90216ea7/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Coding Gif" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</div>
+  <img src="https://cardivo.vercel.app/api?name=Samir%20Badaila&description=Dev%20Enthusiast%20•%20Always%20Learning%20and%20Building&image=https://samirb.com.np/assets/authors/samir-badaila.jpg&backgroundColor=%23f0f4f8&pattern=floatingCogs&colorPattern=%23d1e3f0&fontColor=%23223a5e&iconColor=%235c7caa&github=notsopreety&twitter=notsopreety&linkedin=samirbadaila&instagram=notsopreety&site=samirbadaila.com.np" alt="Coding Gif" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </div>
 
 ---
