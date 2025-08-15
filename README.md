@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cardivo.vercel.app/api?name=Samir%20Badaila&description=Dev%20Enthusiast%20•%20Always%20Learning%20and%20Building&image=https://samirb.com.np/assets/authors/samir-badaila.jpg&backgroundColor=%23f0f4f8&pattern=floatingCogs&colorPattern=%23d1e3f0&fontColor=%23223a5e&iconColor=%235c7caa&github=notsopreety&twitter=notsopreety&linkedin=samirbadaila&instagram=notsopreety&site=samirbadaila.com.np" alt="Coding Gif" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  <img src="https://cardivo.vercel.app/api?name=Samir%20Badaila&description=Dev%20Enthusiast%20•%20Always%20Learning%20and%20Building&image=https://samirb.com.np/assets/authors/samir-badaila.jpg&backgroundColor=%23f0f4f8&pattern=floatingCogs&colorPattern=%23d1e3f0&fontColor=%23223a5e&iconColor=%235c7caa&github=notsopreety&twitter=notsopreety&linkedin=samirbadaila&instagram=notsopreety&site=samirbadaila.com.np" alt="Samir Badaila" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </div>
 
 ---
