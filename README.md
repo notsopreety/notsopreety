@@ -31,8 +31,8 @@
 
 ### 🏆 My GitHub Glory
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=notsopreety&theme=dracula&no-frame=true&column=6&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=notsopreety&theme=dracula&no-frame=true&column=6&margin-w=15" alt="Trophies" />
   </a>
 </div>
 
