@@ -17,6 +17,7 @@
   <img src="https://cardivo.vercel.app/api?name=Samir%20Badaila&description=Dev%20Enthusiast%20•%20Always%20Learning%20and%20Building&image=https://samirb.com.np/assets/authors/samir-badaila.jpg&backgroundColor=%23f0f4f8&pattern=floatingCogs&colorPattern=%23d1e3f0&fontColor=%23223a5e&iconColor=%235c7caa&github=notsopreety&twitter=notsopreety&linkedin=samirbadaila&instagram=notsopreety&site=samirbadaila.com.np" alt="Samir Badaila" width="400" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </div>
 
+
 ---
 
 ### 🛠️ My Tech Arsenal
@@ -69,11 +70,27 @@
 </div>
 
 ---
+### 🔎 Discord Status
+<div align="center">
+  <a href="https://discord.com/users/931511745284038696" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/931511745284038696" alt="Samir Badaila" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+  </a>
+</div>
+
 
 ### 📲 Hit Me Up
 <div align="center" style="display: flex; justify-content: center; gap: 20px; background: #252a34; padding: 10px; border-radius: 10px;">
+  <a href="https://discord.com/users/931511745284038696" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="50" style="filter: drop-shadow(0 0 5px #1da1f2);" />
+  </a>
   <a href="https://twitter.com/notsopreety" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" style="filter: drop-shadow(0 0 5px #1da1f2);" />
+  </a>
+  <a href="https://www.linkedin.com/in/samirbadaila" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" style="filter: drop-shadow(0 0 5px #1da1f2);" />
+  </a>
+  <a href="https://www.reddit.com/user/notsopreety/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" height="40" width="50" style="filter: drop-shadow(0 0 5px #1da1f2);" />
   </a>
   <a href="https://fb.com/dev.samir.xyz" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" style="filter: drop-shadow(0 0 5px #3b5998);" />
