@@ -235,7 +235,7 @@ graph LR
 
 <div align="center">
   <a href="https://discord.com/users/931511745284038696">
-    <img src="https://lanyard.cnrad.dev/api/931511745284038696?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20debugging..." alt="Discord Status" />
+    <img src="https://lanyard.cnrad.dev/api/931511745284038696?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably%20sleeping..." alt="Discord Status" />
   </a>
 </div>
 
