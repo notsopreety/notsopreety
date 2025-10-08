@@ -291,7 +291,7 @@ graph LR
   <i>"Turning caffeine into code, one commit at a time. ☕🚀"</i>
   
   [![portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://samirbadaila.com.np)
-  [![resume](https://img.shields.io/badge/Info-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://samirxyz.info/)
+  [![info](https://img.shields.io/badge/Info-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://samirxyz.info/)
   
 </div>
 
@@ -304,7 +304,7 @@ graph LR
 ---
 
 <div align="center">
-  <b>⭐️ From <a href="https://github.com/notsopreety">Samir Badaila</a> | Let's build something amazing together! 🚀</b>
+  <b>⭐️ From <a href="https://samirxyz.info/">Samir Badaila</a> | Let's build something amazing together! 🚀</b>
 </div>
 
 <p align="center">
